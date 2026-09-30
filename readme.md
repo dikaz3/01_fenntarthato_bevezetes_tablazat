@@ -44,7 +44,7 @@ hatás	Lehetséges
 gazdasági
 hatás	Hogyan függnek össze?
 01 / VÍZ
-Ivóvíz-utántöltés és saját kulacs	Kevesebb egyszer használatos palackra lehet szükség.	Az ivóvíz könnyebben elérhető a diákoknak.	Az ivóvízpont kialakítása és fenntartása pénzbe kerül.	
+Ivóvíz-utántöltés és saját kulacs	Kevesebb egyszer használatos palackra lehet szükség.	Az ivóvíz könnyebben elérhető a diákoknak.	Az ivóvízpont kialakítása és fennnzbe kerütartása pél.	
 Ha sokan tudnak vizet tölteni, kevesebb palackot vásárolhatnak. Ehhez működő, karbantartott ivóvízpont kell.
 02 / UDVAR
 Árnyékot adó növények ültetése	...	...	...	

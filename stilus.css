@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+    box-sizing: border-box;
+}
+table,
+th,
+td  {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+table {
+    width: 80%;
+    margin: auto;
+}
+th {
+    background-color: rgb(145, 168, 233);
+    color: black;
+    padding: 10px 5px 10px 5px;
+}
